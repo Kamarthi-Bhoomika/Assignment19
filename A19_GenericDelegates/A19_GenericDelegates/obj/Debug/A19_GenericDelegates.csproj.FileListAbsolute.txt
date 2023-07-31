@@ -1,0 +1,8 @@
+D:\Mphasis\.net\Day16\Assignment19\A19_GenericDelegates\A19_GenericDelegates\bin\Debug\A19_GenericDelegates.exe.config
+D:\Mphasis\.net\Day16\Assignment19\A19_GenericDelegates\A19_GenericDelegates\bin\Debug\A19_GenericDelegates.exe
+D:\Mphasis\.net\Day16\Assignment19\A19_GenericDelegates\A19_GenericDelegates\bin\Debug\A19_GenericDelegates.pdb
+D:\Mphasis\.net\Day16\Assignment19\A19_GenericDelegates\A19_GenericDelegates\obj\Debug\A19_GenericDelegates.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Day16\Assignment19\A19_GenericDelegates\A19_GenericDelegates\obj\Debug\A19_GenericDelegates.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\.net\Day16\Assignment19\A19_GenericDelegates\A19_GenericDelegates\obj\Debug\A19_GenericDelegates.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Day16\Assignment19\A19_GenericDelegates\A19_GenericDelegates\obj\Debug\A19_GenericDelegates.exe
+D:\Mphasis\.net\Day16\Assignment19\A19_GenericDelegates\A19_GenericDelegates\obj\Debug\A19_GenericDelegates.pdb
